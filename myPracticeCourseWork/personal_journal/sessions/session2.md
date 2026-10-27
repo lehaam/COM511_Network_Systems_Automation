@@ -3,17 +3,21 @@
 # Session 2
 
 ## Topics covered
-*What topics were covered in this session*
-
+Usage of ansible rather than simply just vagrant
+Creating new SSH keys for new accounts
+Installing ubuntu, rocky and apache via vagrant scripts
+Using ansible playbooks to run multiple commands
 
 
 ## Personal Notes and research following this session
-*Which class sessions and personal research refers to technology in this proposal. Link to examples.*
+https://github.com/lehaam/COM511_Network_Systems_Automation/tree/main/sessions/session2/vagrant-examples/example2-1
+https://github.com/lehaam/COM511_Network_Systems_Automation/tree/main/sessions/session2/vagrant-examples/example2-2
 
 
 
 ## Exercises and results
-*What exercises did you complete. What results. Screen shots and notes*
+<img width="1917" height="873" alt="session 2 ubuntu working" src="https://github.com/user-attachments/assets/15009e18-fa02-440d-8c1a-387b01922648" />
+
 
 
 
